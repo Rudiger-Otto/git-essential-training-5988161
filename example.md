@@ -1,4 +1,5 @@
 Example for course
 line 2
 line 3
-libe 4
+line 4
+line 5
